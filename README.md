@@ -2,7 +2,7 @@
 The AMIDEAST Educational Platform
 
 ## Features
-1- Designed and implemented an Educational platform using Python and Tkinter framework.
+1- Designed and implemented with my team an Educational platform using Python and Tkinter framework.
 
 2- The Platform has 4 Educational sections: English, Programming, Environment, and Embedded Systems.
 
